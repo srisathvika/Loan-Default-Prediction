@@ -1,4 +1,4 @@
-# Loan Default Prediction using Machine Learning and Deep Learning
+# Loan Default Prediction.
 
 ## Overview
 
